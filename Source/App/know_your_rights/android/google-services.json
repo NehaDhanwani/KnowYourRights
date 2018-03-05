@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "236985387629",
+    "project_id": "firebase-knowyourrights"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:236985387629:android:aabb557665baf251",
+        "android_client_info": {
+          "package_name": "com.powerpuff.knowyourrights"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "236985387629-22ihoioic8jcaf68fndevufhutbn8jml.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "236985387629-kjutftiapopvotn4avct9r4iru1v2vln.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.powerpuff.knowyourrights",
+            "certificate_hash": "c9ad0caf4a3b6d38647fc2e65e1a402d47570d1c"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvzQcb_cfsKddsivtT3-da5heIwS6Gq-w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
